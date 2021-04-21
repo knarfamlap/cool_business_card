@@ -1,0 +1,26 @@
+.vertical {
+     border-left: 1px solid grey;
+     height: 55px;
+     position: absolute;
+     left: 5%;
+}
+
+.name {
+    padding-left: 10%;
+    padding-top: 5%;
+    padding-right: 10%;
+}
+
+.bio {
+    padding-left: 5%;
+    padding-right: 10%;
+    padding-top: 5%;
+}
+
+.links {
+    padding-left: 5%;
+    padding-right: 5%; 
+}
+
+
+
